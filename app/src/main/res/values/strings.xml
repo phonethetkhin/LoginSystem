@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginSystem</string>
+    <string name="btn_register">Register</string>
+    <string name="tv_register">If You Don\'t Have Account Yet,</string>
+    <string name="tiet_username">UserName</string>
+    <string name="tiet_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="tiet_cpassword">Confirm Password</string>
+    <string name="tiet_uploadstatus">What\'s on Your Mind?</string>
+    <string name="btn_upload">Upload</string>
+    <string name="btn_update">Update</string>
+    <string name="menutitle">Profile</string>
+    <string name="btn_remove">Remove</string>
+</resources>
